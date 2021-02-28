@@ -1,0 +1,100 @@
+[{
+    "id": 1,
+    "name": "Tamim Iqbal",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303166.jpg",
+    "age": "31 years",
+    "role": "Opening batsman",
+    "batting_style": "Left-hand bat",
+    "salary": "90000",
+    "born": "Chittagong"
+  }, {
+    "id": 2,
+    "name": "Liton Das",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/302900/302995.jpg",
+    "age": "26 years",
+    "role": "Wicketkeeper batsman",
+    "batting_style": "Right-hand bat",
+    "salary": "80000",
+    "born": "Dinajpur"
+  }, {
+    "id": 3,
+    "name": "Shakib Al Hasan",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303157.jpg",
+    "age": "33 years",
+    "role": "Allrounder",
+    "batting_style": "Left-hand bat",
+    "salary": "100000",
+    "born": "Jessore"
+  }, {
+    "id": 4,
+    "name": "Mushfiqur Rahim",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303148.jpg",
+    "age": "33 years",
+    "role": "Wicketkeeper batsman",
+    "batting_style": "Right-hand bat",
+    "salary": "90000",
+    "born": null
+  }, {
+    "id": 5,
+    "name": "Mahmudullah",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/263500/263581.jpg",
+    "age": "35 years",
+    "role": "Allrounder",
+    "batting_style": "Right-hand bat",
+    "salary": "85000",
+    "born": "Mymensingh"
+  }, {
+    "id": 6,
+    "name": "Mehidy Hasan Miraz",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303000/303000.jpg",
+    "age": "23 years",
+    "role": "Allrounder",
+    "batting_style": "Right-hand bat",
+    "salary": "75000",
+    "born": "Khulna"
+  }, {
+    "id": 7,
+    "name": "Mohammad Saifuddin",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303200/303236.jpg",
+    "age": "24 years",
+    "role": "Bowling allrounder",
+    "batting_style": "Left-hand bat",
+    "salary": "70000",
+    "born": "Chittagong"
+  }, {
+    "id": 8,
+    "name": "Taijul Islam",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303164.jpg",
+    "age": "29 years",
+    "role": "Bowler",
+    "batting_style": "Left-hand bat",
+    "salary": "55000",
+    "born": "Natore"
+  }, {
+    "id": 9,
+    "name": "Rubel Hossain",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/263500/263594.jpg",
+    "age": "31 years",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "salary": "60000",
+    "born": "Khulna"
+  }, {
+    "id": 10,
+    "name": "Mustafizur Rahman",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/263500/263578.jpg",
+    "age": "25 years",
+    "role": "Bowler",
+    "batting_style": "Left-hand bat",
+    "salary": "70000",
+    "born": "Satkhira"
+  }, {
+    "id": 11,
+    "name": "Soumya Sarkar",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303160.jpg",
+    "age": "28 year",
+    "role": "Middle-order batsman",
+    "batting_style": "Left-hand bat",
+    "salary": "75000",
+    "born": "Satkhira"
+  }]

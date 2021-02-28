@@ -1,0 +1,10 @@
+.mainBody{
+    display: flex;
+}
+.player-details{
+    width: 60%;
+    text-align: center;
+}
+.select-player{
+    width: 40%;
+}
