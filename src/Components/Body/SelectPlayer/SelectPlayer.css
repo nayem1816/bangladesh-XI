@@ -1,0 +1,16 @@
+.player-selected{
+    text-align: center;
+}
+.select-player-body{
+    border: 1px solid #BABABA;
+    margin: 10px;
+    padding: 20px;
+    text-align: left;
+    border-radius: 5px;
+}
+.total-select-player{
+    margin-bottom: 40px;
+}
+.select-player-name{
+    margin-bottom: 60px;
+}

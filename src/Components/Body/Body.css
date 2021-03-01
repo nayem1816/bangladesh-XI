@@ -1,9 +1,13 @@
 .mainBody{
     display: flex;
+    width: 1100px;
+    margin: 0 auto;
+    margin-top: 30px;
 }
 .player-details{
     width: 60%;
     text-align: center;
+    
 }
 .select-player{
     width: 40%;

@@ -1,0 +1,50 @@
+.players{
+    border: 1px solid #BABABA;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.player-head{
+    border-bottom: 1px solid #BABABA;
+    margin: 0px 10px;
+    text-align: left;
+    display: flex;
+}
+.player-btn{
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+}
+.player-btn button{
+    border: 1px solid #BABABA;
+    background-color:#56F4D4;
+    padding: 5px;
+    border-radius: 5px;
+    color: black;
+    width: 170px;
+    font-size: 17px;
+}
+.icon-set{
+    font-size: 20px;
+    
+}
+.player-head small{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.player-head h2{
+    margin-bottom: 0px;
+}
+.players-info{
+    display: flex;
+    margin-top: 20px;
+    padding: 0px 20px;
+}
+.player-body{
+    margin: 0 auto;
+    text-align: left;
+}
+.player-img{
+
+}
